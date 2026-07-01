@@ -55,7 +55,7 @@
 ### 🐍 绿格子贪吃蛇 (Snake Game)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg" alt="Snake Game" width="90%" />
+  <img src="https://raw.githubusercontent.com/https://github.com/YanMo5/Zy/blob/main/snake.yml" alt="Snake Game" width="90%" />
 </p>
 
 ---
